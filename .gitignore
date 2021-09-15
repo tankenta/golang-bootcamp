@@ -91,3 +91,4 @@ tags
 # End of https://www.toptal.com/developers/gitignore/api/go,vim,visualstudiocode,macos
 
 /gobook
+*.gif
